@@ -1,2 +1,3 @@
 # test-project-1
-test-project is the test repository for styding.
+
+This is my test repository for styding.
