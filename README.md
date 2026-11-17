@@ -1,3 +1,3 @@
 # test-project-1
 
-This is my test repository for styding.
+This is a test repository
